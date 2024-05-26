@@ -4,6 +4,6 @@ Lightweight web application framework for Common Lisp.
 
 |---------+----------------------------------------------|
 | source  | git:https://github.com/fukamachi/caveman.git |
-| commit  | 31a9bfa                                      |
+| commit  | a644adb                                      |
 | systems | caveman2 caveman2-db                         |
 |---------+----------------------------------------------|
