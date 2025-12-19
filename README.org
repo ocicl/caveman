@@ -1,9 +1,10 @@
 * caveman
 
-Lightweight web application framework for Common Lisp.
+A lightweight web application framework for Common Lisp.
 
-|---------+----------------------------------------------|
-| source  | git:https://github.com/fukamachi/caveman.git |
-| commit  | a644adb                                      |
-| systems | caveman2 caveman2-db                         |
-|---------+----------------------------------------------|
+|---------+-------------------------------------------------|
+| source  | git:https://github.com/fukamachi/caveman.git   |
+| commit  | a644adb                                         |
+| systems | caveman                                         |
+|---------+-------------------------------------------------|
+
